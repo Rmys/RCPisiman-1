@@ -689,7 +689,7 @@ def make_iso(project):
         setup_isolinux(project)
 
 
-        publisher="Pisi GNU/Linux http://www.pisilinux.org"
+        publisher="Pisi GNU/Linux https://pisilinux.org"
         application="Pisi GNU/Linux Live Media"
         label="pisiLive"
 

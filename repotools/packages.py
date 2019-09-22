@@ -13,13 +13,13 @@
 
 import os
 import sys
-import urllib2
+import urllib3
 import requests
 import piksemel
 import random
 import string
 import random
-
+urllib3.disable_warnings()
 from utility import xterm_title
 
 class Console:
