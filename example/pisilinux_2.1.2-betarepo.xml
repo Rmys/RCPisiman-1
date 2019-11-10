@@ -82,6 +82,7 @@
         <SelectedPackage>module-virtualbox-userspace</SelectedPackage>
         <SelectedPackage>nano</SelectedPackage>
         <SelectedPackage>noto-fonts</SelectedPackage>
+        <SelectedPackage>noto-fonts-ttf-croscore</SelectedPackage>
         <SelectedPackage>ntfs-3g</SelectedPackage>
         <SelectedPackage>ntp-server</SelectedPackage>
         <SelectedPackage>okular</SelectedPackage>
@@ -720,6 +721,7 @@
         <Package>networkmanager-qt</Package>
         <Package>newt</Package>
         <Package>noto-fonts</Package>
+        <Package>noto-fonts-ttf-croscore</Package>
         <Package>nspr</Package>
         <Package>nss</Package>
         <Package>nss-mdns</Package>
